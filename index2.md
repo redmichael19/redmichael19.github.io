@@ -12,7 +12,7 @@ I am primarily interested in wildlife conservation and environmental applictions
 
 # My First Agent Based Model
 
-I have created a simple Agent Based Model (ABM). 
+I have created a simple Agent Based Model (ABM). [Access to the code is via github here](https://github.com/redmichael19/AgentBasedModel1).
 
 It is currently able to do the following:
 
