@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Red Michael's Coding Portfolio
 ---
 
+# Introduction
 
-
-Hello World
+Hello, welcome to my portfolio where you can find all my coding adventures.  
